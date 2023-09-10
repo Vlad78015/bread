@@ -10,7 +10,7 @@
 }
 .v_block {
     padding: 20px 30px;
-    height: 61vh;
+    height: 500px;
     margin: 100px auto;
     max-width: 1000px;
     border-radius: 8px;
@@ -170,6 +170,6 @@
 }
 @media(max-width: 575px){
     .v__block-btn{
-        margin-left: 31%;
+        margin-left: 29.5%;
     }
 }
